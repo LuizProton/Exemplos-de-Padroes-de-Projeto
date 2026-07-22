@@ -1,3 +1,3 @@
 public abstract class Carro {
-    public abstract String descrição();
+    public abstract String descricao();
 }
