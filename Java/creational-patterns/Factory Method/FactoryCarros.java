@@ -1,4 +1,4 @@
-enum ModeloCarro {
+public enum ModeloCarro {
   TOYOTA_COROLLA,
   TOYOTA_HILUX,
   VW_GOLF,
