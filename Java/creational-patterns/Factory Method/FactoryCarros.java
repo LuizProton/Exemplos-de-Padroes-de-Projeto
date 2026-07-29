@@ -1,12 +1,3 @@
-public enum ModeloCarro {
-  TOYOTA_COROLLA,
-  TOYOTA_HILUX,
-  VW_GOLF,
-  VW_NIVUS,
-  FORD_MUSTANG,
-  FORD_RANGER
-}
-
 public class FactoryCarros {
   public static Carro criarCarro(ModeloCarro modelo) {
     if (modelo == null){
