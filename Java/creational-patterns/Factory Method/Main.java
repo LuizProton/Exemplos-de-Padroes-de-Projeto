@@ -18,12 +18,3 @@ public class Main {
         System.out.println("OK!");
     }
 }
-
-enum ModeloCarro {
-  TOYOTA_COROLLA,
-  TOYOTA_HILUX,
-  VW_GOLF,
-  VW_NIVUS,
-  FORD_MUSTANG,
-  FORD_RANGER
-}
