@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class Carro(ACB):
+class Carro(ABC):
   @abstractmethod
   def descricao(self):
     pass
