@@ -22,7 +22,7 @@ class VolkswagenNivus(Carro):
     print("Volkswagen Nivus - SUV Cumpê urbano com design moderno e conectividade.")
 
 class FordMustang(Carro):
-  def decricao():
+  def descricao():
     print("Ford Mustang - Muscle car lendário com motor V8 potente.")
 
 class FordRanger(Carro):
